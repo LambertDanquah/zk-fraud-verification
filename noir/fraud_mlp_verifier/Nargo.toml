@@ -1,0 +1,6 @@
+[package]
+name = "fraud_mlp_verifier"
+type = "bin"
+authors = [""]
+
+[dependencies]
