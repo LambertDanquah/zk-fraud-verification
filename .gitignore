@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Large datasets
+ml/data/*.csv
+ml/data/*.zip
+
+# Model checkpoints
+*.pth
+*.pt
+
+# Noir build files
+**/target/
+
+# Temporary files
+*.log

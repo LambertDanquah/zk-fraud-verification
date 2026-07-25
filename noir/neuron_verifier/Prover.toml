@@ -1,0 +1,28 @@
+# Public input
+x1 = "2"
+x2 = "3"
+
+# Public expected output
+y = "79"
+
+
+# Private first-layer weights
+w11 = "1"
+w12 = "2"
+
+w21 = "3"
+w22 = "4"
+
+
+# Private first-layer biases
+b1 = "1"
+b2 = "2"
+
+
+# Private output-layer weights
+w31 = "2"
+w32 = "3"
+
+
+# Private output bias
+b3 = "1"
